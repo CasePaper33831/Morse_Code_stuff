@@ -1,5 +1,5 @@
 '''
-TODO: debugging and stuff
+TODO: debugging and stuff. Main thing: for Morse to English, have " / " act as space bar
 
 DONE: User input for English/morse translate
 
