@@ -3,12 +3,12 @@ TODO: debugging and stuff. Main thing: for Morse to English, have " / " act as s
 
 DONE: User input for English/morse translate
 
-VARIABLE KEY
-'cipher' -> 'stores the morse translated form of the english string'
-'decipher' -> 'stores the english translated form of the morse string'
-'citext' -> 'stores morse code of a single character'
-'i' -> 'keeps count of the spaces between morse characters'
-'message' -> 'stores the string to be encoded or decoded'
+What variables mean in code:
+cipher == stores the morse translated form of the english string
+decipher == stores the english translated form of the morse string
+citext == stores morse code of a single character
+i == keeps count of the spaces between morse characters
+message == stores the string to be encoded or decoded
 '''
 import tkinter as tk
 
